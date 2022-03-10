@@ -19,6 +19,8 @@ public class TenPercentDiscount {
     }
 
     private boolean shouldApply(Receipt receipt) {
-        return receipt.totalPrice().compareTo(BigDecimal.valueOf(50)) < 0;
+
+
+        return receipt.totalPrice().compareTo(BigDecimal.valueOf(50)) > 0;
     }
 }
