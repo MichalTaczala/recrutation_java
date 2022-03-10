@@ -22,4 +22,4 @@ Spring boot controller and service are created for Receipt.
 
 - Remember about tests for the implemented use cases
 
-For every written classes and functions, there are unit tests written.
+For every written classes and functions, there are written unit tests.
