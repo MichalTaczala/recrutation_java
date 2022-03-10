@@ -15,8 +15,9 @@ New file is created: FifteenPercentDiscount.java which works similarily to TenPe
 accept the Basket object and return the Receipt with the calculated price
 
 Spring boot controller and service are created for Receipt.
-<img width="1112" alt="Zrzut ekranu 2022-03-10 o 14 00 31" src="https://user-images.githubusercontent.com/77026945/157716034-6453766b-6da4-4bb4-a49a-df447c0e7e5e.png">
 <img width="615" alt="Zrzut ekranu 2022-03-10 o 14 00 04" src="https://user-images.githubusercontent.com/77026945/157716045-b4bd3851-42eb-43ca-9836-5e5a58e4fc47.png">
+<img width="1112" alt="Zrzut ekranu 2022-03-10 o 14 00 31" src="https://user-images.githubusercontent.com/77026945/157716034-6453766b-6da4-4bb4-a49a-df447c0e7e5e.png">
+
 
 
 - Remember about tests for the implemented use cases
